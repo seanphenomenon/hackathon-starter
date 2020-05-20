@@ -1,3 +1,6 @@
+This is a simple randomized Dad Joke generator using two third-party API's (dad-jokes rapid api and giphy meme api). Built with Javascript, React,Express, and Bootstrap. 
+
+
 # React Starter w/ Express Server, using Webpack
 
 This is a project template that can be used to quickly start a react project. It has minimal dependencies and has a server route that you can use to proxy requests without exposing your api keys.
